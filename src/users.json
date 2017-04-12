@@ -1,0 +1,12 @@
+{
+  "Jacob": {
+    "age": 24,
+    "hair": "brown",
+    "faveVideoGame": "EU4"
+  },
+  "Victoria": {
+    "age": 24,
+    "hair": "brown",
+    "faveVideoGame": "Mario Kart"
+  }
+}
