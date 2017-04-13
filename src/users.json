@@ -2,11 +2,16 @@
   "Jacob": {
     "age": 24,
     "hair": "brown",
-    "faveVideoGame": "EU4"
+    "faveVideoGame": "Europa Universalis IV"
   },
   "Victoria": {
     "age": 24,
     "hair": "brown",
     "faveVideoGame": "Mario Kart"
+  },
+  "Jason": {
+    "age": 29,
+    "hair": "Salt and Pepper",
+    "faveVideoGame": "goldeneye"
   }
 }
